@@ -1,0 +1,11 @@
+div#box2 {
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    text-align: center;
+    line-height: ;
+    font-size: 2em;
+    font-weight: bold;
+    color: white;
+    border-radius: 10px;
+}
